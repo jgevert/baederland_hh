@@ -10,5 +10,5 @@ SWIMMING_POOLS = {
     "Blankenese": 15,
     "Elbgaustrasse": 16,
     "Inselpark": 22,
-    "Bodenwald": 20
+    "Bodenwald": 20,
 }
