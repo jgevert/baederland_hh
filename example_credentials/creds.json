@@ -1,0 +1,7 @@
+{
+  "from": "YOU EMAIL ADDRESS",
+  "password": "PASSWORD",
+  "host": "EMAIL SERVER HOSTNAME",
+  "port": EMAIL SERVER PORT,
+  "recipients": [LIST OF RECIPIENTS]
+}
